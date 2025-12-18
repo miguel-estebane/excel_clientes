@@ -11,6 +11,8 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "exceljs": "^4.4.0",
+    "inquirer": "^8.2.7",
     "xlsx": "^0.18.5"
   }
 }
